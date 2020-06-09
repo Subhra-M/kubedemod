@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: hello-app
-      image: subhghosh/demokubs
+      image: subhghosh/dockerkubs
       ports:
         - containerPort: 8080
